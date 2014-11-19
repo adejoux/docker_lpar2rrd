@@ -1,0 +1,4 @@
+@lpar2rrd        soft    stack           -1
+@lpar2rrd        soft    data            -1
+@apache          soft    stack           -1
+@apache          soft    data            -1
